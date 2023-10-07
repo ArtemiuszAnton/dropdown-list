@@ -16,7 +16,7 @@ input {
 }
 
 .img-arrow{
-background-image: url(./assets/arrow.svg);
+background-image: url(./assets/arrowdown.svg);
 background-size: contain;
 background-repeat: no-repeat;
 width: 10px;
